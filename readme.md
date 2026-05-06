@@ -16,7 +16,9 @@ This is an experimental computer vision pipeline. Results depend on video qualit
 
 ## 🖼️ Preview
 
-![Vehicle Counting Preview](assets/counter.png)
+<p align="center">
+  <img src="./assets/counter.png" alt="Vehicle Counting Preview" width="900">
+</p>
 
 ---
 
